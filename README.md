@@ -41,5 +41,23 @@ Antal timer: 1
 Antal timer: 4
 
 ## Iterationer
+Taskene får en prioritet fra 1-5, desto højere desto vigtigere
+
+### Iteration 1:
+Task: Lav en class der skyder et objekt afsted når brugeren klikker på skærmen
+Prioritet: 5
+Task: Programmer en kanonkugle som falder og som kommer op på skærmen når kanonen bliver affyret
+Prioritet: 4
+Mængder af timer brugt: 8
+
+### Iteration 2:
+Task: Programmer en visuel representation af “kanonen” 
+Prioritet: 3
+Task: Programmer en baggrund til programmet
+Prioritet: 1
+Task: Create en UI til at fortælle hvordan de skal bruge programmet
+Prioritet: 2
+Mængder af timer brugt: 4
 
 ## Burn-down Chart
+![Billede2](https://user-images.githubusercontent.com/69625280/130815892-68a04302-e43f-45c3-bbfb-7097d842f68d.png)
