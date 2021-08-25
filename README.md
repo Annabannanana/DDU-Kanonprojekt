@@ -20,6 +20,7 @@ https://youtu.be/TP4OuLIHf8s
 Da brugeren kunne bruge vores Low-Fi Prototype og forstå den som den skulle, kan vi konkludere at Low-Fi Prototypen er klar til at laves i Processing. Vi går herefter i gang med at lave en liste af de tasks vi skal nå, klassediagram osv.
 
 ## Klassediagram
+![Billede1](https://user-images.githubusercontent.com/69625280/130788197-fe0c200e-a151-4f1c-9e7a-69c76a64bc03.png)
 
 ## Tasks
 Der er i alt 14 lektioner
