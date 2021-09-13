@@ -9,8 +9,10 @@ void setup(){
 
 void draw(){
   clear();
-  background(255);  
+  background(0, 150, 200);  
   kanon.display();
+  fill(0, 200, 100);
+  ellipse(600, 700, 3000, 200);
 }
 
 void mousePressed(){
