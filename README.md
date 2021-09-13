@@ -114,3 +114,6 @@ Slut dato: 12 September
 ## Burn-down Chart
 ![burndown](https://user-images.githubusercontent.com/69625280/132658334-c1d762dd-17cc-4638-8643-df15fea5364c.png)
 
+## Fremvisning af endeligt produkt
+https://youtu.be/i4EHChc71QA
+
